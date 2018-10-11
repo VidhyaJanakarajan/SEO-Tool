@@ -1,0 +1,14 @@
+C:\Check Keyword Position\SEO Tool\SEO Tool\bin\Debug\SEO Tool.exe.config
+C:\Check Keyword Position\SEO Tool\SEO Tool\bin\Debug\SEO Tool.exe
+C:\Check Keyword Position\SEO Tool\SEO Tool\bin\Debug\SEO Tool.pdb
+C:\Check Keyword Position\SEO Tool\SEO Tool\bin\Debug\HtmlAgilityPack.dll
+C:\Check Keyword Position\SEO Tool\SEO Tool\bin\Debug\HtmlAgilityPack.pdb
+C:\Check Keyword Position\SEO Tool\SEO Tool\bin\Debug\HtmlAgilityPack.xml
+C:\Check Keyword Position\SEO Tool\SEO Tool\obj\Debug\SEO Tool.csprojAssemblyReference.cache
+C:\Check Keyword Position\SEO Tool\SEO Tool\obj\Debug\SEO_Tool.SEO.resources
+C:\Check Keyword Position\SEO Tool\SEO Tool\obj\Debug\SEO_Tool.Properties.Resources.resources
+C:\Check Keyword Position\SEO Tool\SEO Tool\obj\Debug\SEO Tool.csproj.GenerateResource.cache
+C:\Check Keyword Position\SEO Tool\SEO Tool\obj\Debug\SEO Tool.csproj.CoreCompileInputs.cache
+C:\Check Keyword Position\SEO Tool\SEO Tool\obj\Debug\SEO Tool.csproj.CopyComplete
+C:\Check Keyword Position\SEO Tool\SEO Tool\obj\Debug\SEO Tool.exe
+C:\Check Keyword Position\SEO Tool\SEO Tool\obj\Debug\SEO Tool.pdb
